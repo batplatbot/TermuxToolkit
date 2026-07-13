@@ -1,0 +1,22 @@
+# Ω_BLACKSTAR – Tool List with Descriptions
+
+1. Nmap           - Network scanning and reconnaissance
+2. Git            - Version control system
+3. Termux API     - Access device features (camera, GPS, etc.)
+4. Metasploit     - Penetration testing framework
+5. Hydra          - Password cracking tool
+6. SQLmap         - SQL injection testing
+7. Recon-ng       - OSINT framework
+8. theHarvester   - Email and domain harvesting
+9. SocialFish     - Phishing tool (social media)
+10. HiddenEye     - Advanced phishing toolkit
+11. Ngrok         - Secure tunnels to localhost
+12. Cloudflared   - Cloudflare tunnel (for exposing local servers)
+13. IP-Tracer     - Track IP addresses
+14. WHOIS         - Domain registration lookup
+15. OpenSSL       - SSL/TLS toolkit
+16. Curl          - HTTP requests and data transfer
+17. Wget          - File downloader
+18. Python        - Programming language
+19. Pip           - Python package manager
+20. Nmap Full     - All nmap scripts and features
